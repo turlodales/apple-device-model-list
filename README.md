@@ -8,9 +8,9 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 |  | iPhone1,1 | iPhone1,2 | iPhone2,1 | iPhone3,1 / iPhone3,2 / iPhone3,3 | iPhone4,1 / iPhone4,2 / iPhone4,3 | iPhone5,1 / iPhone5,2 | iPhone5,3 / iPhone5,4 | 
 
 # 64bit iPhones
-| Device |  |  |  |  |  | 
-| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | 
-|  | iPhone11,8 | iPhone12,1 | iPhone12,3 | iPhone12,5 | iPhone12,8 | iPhone13,1 | iPhone13,2 | iPhone13,3 | iPhone13,4 | iPhone14,4 | iPhone14,5 | iPhone14,2 | iPhone14,3 |
+| Device |  |  
+| ---------- | ---------- |   
+| | iPhone14,3 | iPhone14,3 |
 | iPhone 5S | iPhone6,1 / iPhone6,2 | 
 | iPhone 6 | iPhone7,2 | 
 | iPhone 6+ | iPhone7,1 |
@@ -24,18 +24,18 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 | iPhone X | iPhone10,3 / iPhone10,6 |    
 | iPhone XS | iPhone11,2 | 
 | iPhone XS Max | iPhone11,4 / iPhone11,6 |    
-| iPhone XR |  |    
-| iPhone 11 Pro |  | 
-| iPhone 11 Pro Max |  |  
-| iPhone SE2 |  | 
-| iPhone 12 Mini |  |    
-| iPhone 12 |  |  
-| iPhone 12 Pro |  |    
-| iPhone 12 Pro Max |  |  
-| iPhone 13 Mini |  |   
-| iPhone 13 |  |    
-| iPhone 13 Pro |  |   
-| iPhone 13 Pro Max |  |   
+| iPhone XR | iPhone11,8 |    
+| iPhone 11 Pro | iPhone12,1 | 
+| iPhone 11 Pro Max | iPhone12,3 |  
+| iPhone SE2 | iPhone12,5 | 
+| iPhone 12 Mini | iPhone12,8 |    
+| iPhone 12 | iPhone13,1 |  
+| iPhone 12 Pro | iPhone13,2 |    
+| iPhone 12 Pro Max | iPhone13,3 |  
+| iPhone 13 Mini | iPhone13,4 |   
+| iPhone 13 | iPhone14,4 |    
+| iPhone 13 Pro | iPhone14,5 |   
+| iPhone 13 Pro Max | iPhone14,2 |   
 
 
 
