@@ -3,9 +3,16 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 
 
 # 32bit iPhones
-| Device      | iPhone2G | iPhone 3G | iPhone 3GS| iPhone 4 | iPhone 4S | iPhone 5 | iPhone 5C | 
-| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |
-|  | iPhone1,1 | iPhone1,2 | iPhone2,1 | iPhone3,1 / iPhone3,2 / iPhone3,3 | iPhone4,1 / iPhone4,2 / iPhone4,3 | iPhone5,1 / iPhone5,2 | iPhone5,3 / iPhone5,4 | 
+| Device      |  |  
+| ---------- | ---------- |  
+| iPhone 2G | iPhone1,1 | 
+| iPhone 3G | iPhone1,2 | 
+| iPhone 3GS | iPhone2,1 |  
+| iPhone 4 | iPhone3,1 / iPhone3,2 / iPhone3,3 |  
+| iPhone 4S | iPhone4,1 / iPhone4,2 / iPhone4,3 | 
+| iPhone 5 | iPhone5,1 / iPhone5,2 | 
+| iPhone 5C | iPhone5,3 / iPhone5,4 |
+
 
 # 64bit iPhones
 | Device |  |  
