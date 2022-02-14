@@ -2,44 +2,19 @@
 Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model list.
 
 
-# My 32bit iPhones
+# 32bit iPhones
 | Device      | iPhone2G | iPhone 3G | iPhone 3GS| iPhone 4 | iPhone 4S | iPhone 5 | iPhone 5C | 
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |---------- |
 |  | iPhone1,1 | iPhone1,2 | iPhone2,1 | iPhone3,1 / iPhone3,2 / iPhone3,3 | iPhone4,1 / iPhone4,2 / iPhone4,3 | iPhone5,1 / iPhone5,2 | iPhone5,3 / iPhone5,4 | 
 
+# 64bit iPhones
+| Device | iPhone 5S | iPhone 6 | iPhone 6+ | iPhone 6S | iPhone 6S+ | iPhone SE | iPhone 7 | iPhone 7+ | iPhone 8 | iPhone 8+ | iPhone X | iPhone XS | iPhone XS Max | iPhone XR | iPhone 11 Pro | iPhone 11 Pro Max | iPhone SE2 | iPhone 12 Mini | iPhone 12 | iPhone 12 Pro | iPhone 12 Pro Max | iPhone 13 Mini | iPhone 13 | iPhone 13 Pro | iPhone 13 Pro Max |   
+| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| ---------- | iPhone6,1 / iPhone6,2 | iPhone7,2 | iPhone7,1 | iPhone8,1 | iPhone8,2 | iPhone8,4 | iPhone9,1 / iPhone9,3 | iPhone9,2 / iPhone9,4 | iPhone10,1 / iPhone10,4 | iPhone10,2 / iPhone10,5 | iPhone10,3 / iPhone10,6 | iPhone11,2 | iPhone11,4 / iPhone11,6 | iPhone11,8 | iPhone12,1 | iPhone12,3 | iPhone12,5 | iPhone12,8 | iPhone13,1 | iPhone13,2 | iPhone13,3 | iPhone13,4 | iPhone14,4 | iPhone14,5 | iPhone14,2 | iPhone14,3 |
 
-## iPhone
-"iPhone6,1", "iPhone6,2":                          iPhone 5S
-"iPhone7,2":                                       iPhone 6
-"iPhone7,1":                                       iPhone 6 Plus
-"iPhone8,1":                                       iPhone 6S
-"iPhone8,2":                                       iPhone 6S Plus
-"iPhone8,4":                                       iPhone SE
-"iPhone9,1", "iPhone9,3":                          iPhone 7
-"iPhone9,2", "iPhone9,4":                          iPhone 7 Plus
-"iPhone10,1", "iPhone10,4":                        iPhone 8
-"iPhone10,2", "iPhone10,5":                        iPhone 8 Plus
-"iPhone10,3", "iPhone10,6":                        iPhone X
-"iPhone11,2":                                      iPhone Xs
-"iPhone11,4", "iPhone11,6":                        iPhone Xs Max
-"iPhone11,8":                                      iPhone Xʀ
-"iPhone12,1":                                      iPhone 11
-"iPhone12,3":                                      iPhone 11 Pro
-"iPhone12,5":                                      iPhone 11 Pro Max
-"iPhone12,8":                                      iPhone SE 2
-"iPhone13,1":                                      iPhone 12 mini
-"iPhone13,2":                                      iPhone 12
-"iPhone13,3":                                      iPhone 12 Pro
-"iPhone13,4":                                      iPhone 12 Pro Max
-"iPhone14,4":                                      iPhone 13 mini
-"iPhone14,5":                                      iPhone 13
-"iPhone14,2":                                      iPhone 13 Pro
-"iPhone14,3":                                      iPhone 13 Pro Max
-```
 
 ## iPad
 
-```
 "iPad1,1":                                         iPad
 "iPad2,1", "iPad2,2", "iPad2,3", "iPad2,4":        iPad 2
 "iPad3,1", "iPad3,2", "iPad3,3":                   iPad 3
