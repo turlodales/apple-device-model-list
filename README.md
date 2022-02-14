@@ -45,16 +45,18 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 | iPhone 13 Pro Max | iPhone14,2 |   
 
 
-
-
-
-
 ## iPad
 
-"iPad1,1":                                         iPad
-"iPad2,1", "iPad2,2", "iPad2,3", "iPad2,4":        iPad 2
-"iPad3,1", "iPad3,2", "iPad3,3":                   iPad 3
-"iPad3,4", "iPad3,5", "iPad3,6":                   iPad 4
+# 32bit iPads
+| Device      |  |  
+| ---------- | ---------- |  
+| iPad | iPad1,1 | 
+| iPad 2 | iPad2,1 / iPad2,2 / iPad2,3 / iPad2,4 | 
+| iPad 3 | iPad3,1 / iPad3,2 / iPad3,3   |  
+| iPad 4 | iPad3,4 / iPad3,5 / iPad3,6   |  
+
+
+
 "iPad6,11", "iPad6,12":                            iPad 5
 "iPad7,5", "iPad7,6":                              iPad 6
 "iPad7,11", "iPad7,12":                            iPad 7
