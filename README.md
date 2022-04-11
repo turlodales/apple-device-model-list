@@ -53,23 +53,45 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 | iPad | iPad1,1 | 
 | iPad 2 | iPad2,1 / iPad2,2 / iPad2,3 / iPad2,4 | 
 | iPad 3 | iPad3,1 / iPad3,2 / iPad3,3   |  
-| iPad 4 | iPad3,4 / iPad3,5 / iPad3,6   |  
+| iPad 4 | iPad3,4 / iPad3,5 / iPad3,6   | 
+
+# 64bit iPads
+| Device      |  |  
+| ---------- | ---------- | 
+| iPad 5 | iPad6,11 / iPad6,12 | 
+| iPad 6 | iPad7,5 / iPad7,6 | 
+| iPad 7 | iPad7,11 / iPad7,12 | 
+| iPad 8 | iPad11,6 / iPad11,7 | 
+| iPad 9 | iPad12,1 / iPad12,2 | 
+
+# 32bit iPads
+| Device      |  |  
+| ---------- | ---------- | 
+| iPad Air   | iPad4,1 / iPad4,2 / iPad4,3 | 
+| iPad Air 2 | iPad5,3 / iPad5,4           | 
+
+# 64bit iPad Air's
+| Device      |  |  
+| ---------- | ---------- | 
+| iPad Air 3 | iPad11,3 / iPad11,4 | 
+| iPad Air 4 | iPad13,1 / iPad13,2 | 
+
+# 32bit iPads
+| Device      |  |  
+| ---------- | ---------- | 
+| iPad Mini   | iPad2,5 / iPad2,6 / iPad2,7 | 
+| iPad Mini 2 | iPad4,4 / iPad4,5 / iPad4,6 | 
+| iPad Mini 3 | iPad4,7 / iPad4,8 / iPad4,9 | 
+| iPad Mini 4 | iPad5,1 / iPad5,2 | 
 
 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
 
-"iPad6,11", "iPad6,12":                            iPad 5
-"iPad7,5", "iPad7,6":                              iPad 6
-"iPad7,11", "iPad7,12":                            iPad 7
-"iPad11,6", "iPad11,7":                            iPad 8
-"iPad12,1", "iPad12,2"::                           iPad 9
-"iPad4,1", "iPad4,2", "iPad4,3":                   iPad Air
-"iPad5,3", "iPad5,4":                              iPad Air 2
-"iPad11,3", "iPad11,4":                            iPad Air 3
-"iPad13,1", "iPad13,2":                            iPad Air 4
-"iPad2,5", "iPad2,6", "iPad2,7":                   iPad Mini
-"iPad4,4", "iPad4,5", "iPad4,6":                   iPad Mini 2
-"iPad4,7", "iPad4,8", "iPad4,9":                   iPad Mini 3
-"iPad5,1", "iPad5,2":                              iPad Mini 4
+
 "iPad11,1", "iPad11,2":                            iPad Mini 5
 "iPad14,1", "iPad14,2":                            iPad Mini 6
 "iPad6,3", "iPad6,4":                              iPad Pro 9.7-inch
